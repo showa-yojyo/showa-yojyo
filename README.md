@@ -14,6 +14,10 @@ translate and read by using [DeepL](https://www.deepl.com/translator), etc.
 
 [![問題ないだろうというもの](https://skillicons.dev/icons?i=bash,cpp,css,git,github,html,js,md,py,regex,vscode)](https://skillicons.dev)
 
+修練がまだ必要なもの：
+
+[![修練がまだ必要なもの](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+
 まだ何か書きたい。
 
 ## アカウント所有者が最近学習している事項
