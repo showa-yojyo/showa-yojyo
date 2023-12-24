@@ -16,14 +16,14 @@ translate and read by using [DeepL](https://www.deepl.com/translator), etc.
 
 修練がまだ必要なもの：
 
-[![修練がまだ必要なもの](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![修練がまだ必要なもの](https://skillicons.dev/icons?i=dynamodb,mongodb,powershell,sass)](https://skillicons.dev)
 
 まだ何か書きたい。
 
 ## アカウント所有者が最近学習している事項
 
-リポジトリー [showa-yojyo/notebook](https://github.com/showa-yojyo/notebook)
-のログを調べて欲しい。
+リポジトリー [showa-yojyo/notebook](https://github.com/showa-yojyo/notebook) の
+ログを調べて欲しい。
 
 ## アカウント所有者にとっての最重要リポジトリー
 
