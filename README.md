@@ -12,11 +12,11 @@ translate and read by using [DeepL](https://www.deepl.com/translator), etc.
 
 まあ問題ないだろうというもの：
 
-[![問題ないだろうというもの](https://skillicons.dev/icons?i=bash,cpp,css,git,github,html,js,md,py,regex,vscode)](https://skillicons.dev)
+[![問題ないだろうというもの](https://skillicons.dev/icons?i=bash,cpp,css,git,github,html,js,md,py,regex,vscode,windows)](https://skillicons.dev)
 
 修練がまだ必要なもの：
 
-[![修練がまだ必要なもの](https://skillicons.dev/icons?i=dynamodb,mongodb,powershell,sass)](https://skillicons.dev)
+[![修練がまだ必要なもの](https://skillicons.dev/icons?i=docker,dynamodb,mongodb,powershell,linux,lua,sass,ubuntu)](https://skillicons.dev)
 
 まだ何か書きたい。
 
