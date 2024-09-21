@@ -32,7 +32,7 @@ translate and read by using [DeepL](https://www.deepl.com/translator), etc.
 * [ドラクエ命](https://github.com/showa-yojyo/dqbook): 停滞
 * [読書ノート](https://github.com/showa-yojyo/notebook): 進行中
 * [徘徊の書](https://github.com/showa-yojyo/wandering): 完成
-* [マイ日没録](https://github.com/showa-yojyo/sunset): 進行中
+* [マイ没日録](https://github.com/showa-yojyo/sunset): 進行中
 
 ## アカウント所有者関連サイト
 
