@@ -5,8 +5,7 @@ translate and read by using [DeepL](https://www.deepl.com/translator), etc.
 
 ## アカウント所有者履歴
 
-述べられない事が多過ぎる。ホームレスのときがいちばん気が楽だった。現在、職業プロ
-グラマーではない。
+述べられない事が多過ぎる。ホームレスのときがいちばん気が楽だった。現在、職業プログラマーではない。
 
 ## アカウント所有者技術一覧
 
@@ -22,8 +21,7 @@ translate and read by using [DeepL](https://www.deepl.com/translator), etc.
 
 ## アカウント所有者が最近学習している事項
 
-リポジトリー [showa-yojyo/notebook](https://github.com/showa-yojyo/notebook) の
-ログを調べて欲しい。
+リポジトリー [showa-yojyo/notebook](https://github.com/showa-yojyo/notebook) のログを調べて欲しい。
 
 ## アカウント所有者にとっての最重要リポジトリー
 
